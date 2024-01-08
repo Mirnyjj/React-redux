@@ -1,4 +1,2 @@
-export * from './select-buttonState'
-export * from './select-draw'
-export * from './select-isVictory'
-export * from './select-player'
+export * from './select-todos-state'
+export * from './select-loader-state'
